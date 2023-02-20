@@ -6,6 +6,7 @@ document.getElementById('apply-bg').addEventListener('click', function(){
         friend.style.backgroundColor = 'lightblue';
     }
 });
+//this is for third friend btn
 document.getElementById('third-friend-bg').addEventListener('click', function(){
     const thirdFriendBg = document.getElementById('third-friend');
     thirdFriendBg.style.backgroundColor = 'blue';
